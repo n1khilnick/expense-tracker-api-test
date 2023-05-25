@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e2834812-04cd-4df9-a8c8-691c1b870bd3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geekster/expensetracker/Services/AuthTokenService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/geekster/expensetracker/Services/AuthTokenService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geekster/expensetracker/Services/ExpenseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/geekster/expensetracker/Services/ExpenseService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geekster/expensetracker/controllers/ProductController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geekster/expensetracker/controllers/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/geekster/expensetracker/controllers/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geekster/expensetracker/dto/SignInInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/geekster/expensetracker/dto/SignInInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geekster/expensetracker/dto/SignInOutput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/geekster/expensetracker/dto/SignInOutput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geekster/expensetracker/models/AuthToken.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/geekster/expensetracker/models/AuthToken.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geekster/expensetracker/models/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/geekster/expensetracker/models/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geekster/expensetracker/models/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/geekster/expensetracker/models/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geekster/expensetracker/repositories/IExpenseDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/geekster/expensetracker/repositories/IExpenseDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geekster/expensetracker/repositories/IUserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/geekster/expensetracker/repositories/IUserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geekster/expensetracker/Services/AuthTokenService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/geekster/expensetracker/Services/AuthTokenService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geekster/expensetracker/Services/ExpenseService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/geekster/expensetracker/Services/ExpenseService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geekster/expensetracker/controllers/ProductController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geekster/expensetracker/controllers/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/geekster/expensetracker/controllers/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geekster/expensetracker/dto/SignInInput.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/geekster/expensetracker/dto/SignInInput.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geekster/expensetracker/dto/SignInOutput.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/geekster/expensetracker/dto/SignInOutput.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geekster/expensetracker/models/AuthToken.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/geekster/expensetracker/models/AuthToken.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geekster/expensetracker/models/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/geekster/expensetracker/models/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geekster/expensetracker/models/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/geekster/expensetracker/models/User.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Q5gkI5MztpvlYuZB0uuyQZZuX4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/saini/Videos/Backup/Training/2.Java-DSA/Notes/Module 4 (Spring Boot)/AWS/expense-tracker/expense-tracker&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\saini\Videos\Backup\Training\2.Java-DSA\Notes\Module 4 (Spring Boot)\AWS\expense-tracker\expense-tracker" />
+      <recent name="C:\Users\saini\Videos\Backup\Training\2.Java-DSA\Notes\Module 4 (Spring Boot)\AWS\expense-tracker\expense-tracker\src\main\java\com\geekster\expensetracker" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.geekster.expensetracker.Services" />
+      <recent name="com.geekster.expensetracker.repositories" />
+      <recent name="com.geekster.expensetracker.models" />
+      <recent name="com.geekster.expensetracker.controllers" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ExpenseTrackerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.geekster.expensetracker.ExpenseTrackerApplication" />
+      <module name="expense-tracker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.geekster.expensetracker.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ExpenseTrackerApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2834812-04cd-4df9-a8c8-691c1b870bd3" name="Changes" comment="" />
+      <created>1684648998886</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684648998886</updated>
+    </task>
+    <servers />
+  </component>
+</project>
